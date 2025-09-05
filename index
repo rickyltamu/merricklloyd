@@ -1,0 +1,21 @@
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Merrick Lloyd</title>
+  </head>
+  <body>
+    <h1><b>My Biography</b></h1>
+    <table>
+	<tr>
+	  <td> <a href="https://artsci.tamu.edu/statistics/index.html"> TAMU Statistics </a> </td>
+	  <td> <img width = 300 src="Headshot.jpg" /> </td>
+	<tr>
+	  <td> 
+	    <ul>
+		<li>I am currently a graduate student at Texas A&M University pursuing a MS in Statistical Data Science</li>
+		<li>I received my bachelors in Economics from A&M in 2018, and currently work for Texas A&M Transportation Institute doing revenue forecasting and railroad safety research for the State</li>
+	    </ul> 
+	  </td>
+	  <td> </td>
+  </body>
+</html>
